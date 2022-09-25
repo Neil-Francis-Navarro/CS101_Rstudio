@@ -79,7 +79,7 @@ Data*2
 seq(1:100)
 
 #8.2 Numbers from 20 to 60
-seq(20:60)
+seq(20,60)
 
 #8.3 Mean of numbers from 20 to 60
 mean(20:60)
@@ -91,7 +91,7 @@ sum(51:91)
 sum(1:1000)
 
 #a. How many data points from 8.1 to 8.4?_______
-#Answer: 43 data points are in 8.1 to 8.4
+#Answer: 143 data points are in 8.1 to 8.4
 
 #b. Write the R code and its output from 8.1 to 8.4.
 seq(1:100)
