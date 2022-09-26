@@ -8,7 +8,7 @@ age <- c(34, 28, 22, 36, 27, 18, 52, 39, 42, 29, 35,
 #given 
 
 #a.
-#Answer : 35 data points(age)
+#Answer : 34 data points(age)
 
 #b.
 #Outputs
